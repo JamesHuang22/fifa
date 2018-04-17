@@ -3,6 +3,7 @@
 **Analyzing player attributes from FIFA '17 player rankings.**
 
 Author: Brian Daisey
+NOTE: View notebook online at https://bdaisey.github.io/fifa/
 
 ## Introduction
 
